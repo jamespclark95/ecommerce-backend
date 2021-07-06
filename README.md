@@ -15,3 +15,4 @@ SO I can easily manage my inventory in real life
 
 
 Click here to watch the video tutorial using VS Code & Insomnia
+https://youtu.be/Tb7J7WYiMYw
